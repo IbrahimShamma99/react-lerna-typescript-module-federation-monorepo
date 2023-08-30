@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+/@mf-types
+
+/.dist
+
 # production
 /build
 
